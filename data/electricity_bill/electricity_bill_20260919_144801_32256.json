@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "32256",
+  "document_id": "345456",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "DUNGARI GANGU BAI",
+    "USC_no": "15926573",
+    "SC_no": "60610-00176",
+    "category": "1A Domestic",
+    "meter_no": "04272011",
+    "perivious_reading": "3455",
+    "current_reading": "3455",
+    "bill_month": "09/2025",
+    "total_due": 0.0
+  }
+}

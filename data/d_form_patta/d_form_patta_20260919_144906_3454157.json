@@ -1,0 +1,14 @@
+{
+  "beneficiary_id": "3454157",
+  "document_id": "345456",
+  "document_type": "D_FORM_PATTA",
+  "data": {
+    "d_patta_beneficiary_name": "సీడాం లిచ్ఛుబాయి",
+    "d_patta_survey_number": "12",
+    "d_patta_assignment_order_proceedings": "B/511/2025",
+    "d_patta_tahsildar": "yes",
+    "d_patta_revenue_divisional_officer": "no",
+    "d_patta_collector": "no",
+    "d_patta_mro": "no"
+  }
+}

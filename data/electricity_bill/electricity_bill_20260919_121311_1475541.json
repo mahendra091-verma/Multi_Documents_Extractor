@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "1475541",
+  "document_id": "1",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "K.SAYANNA",
+    "USC_no": "12781204",
+    "SC_no": "62007-01283",
+    "category": "1A Domestic",
+    "meter_no": "10242870(IR)",
+    "perivious_reading": "4732",
+    "eb_current_reading": "4826",
+    "bill_month": "None",
+    "total_due": 0.0
+  }
+}

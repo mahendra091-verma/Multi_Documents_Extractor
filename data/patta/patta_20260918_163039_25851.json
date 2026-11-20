@@ -1,0 +1,18 @@
+{
+  "document_type": "PATTA",
+  "beneficiary_id": "25851",
+  "document_id": "12",
+  "pages": 1,
+  "fields": {
+    "pattadar_name": "పురంల ప్రసాద్",
+    "survey_number": "None",
+    "extent": "None",
+    "village": "మొయ్ రుడ్",
+    "mandal": "మామడ",
+    "district": "నిర్మల్",
+    "tahsildar_mro_seal": "yes",
+    "digital_signature": "no",
+    "qr_barcode": "yes",
+    "dharani_ror_reference": "None"
+  }
+}

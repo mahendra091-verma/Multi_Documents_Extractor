@@ -1,0 +1,17 @@
+{
+  "document_type": "ELECTRICITY_BILL",
+  "beneficiary_id": "25881",
+  "document_id": "987",
+  "pages": 1,
+  "fields": {
+    "consumer_name": "BHUNDEV1 KARAKAPALLY",
+    "usc_number": "18149461",
+    "sc_number": "04114-00799",
+    "category": "1 (A) Domestic",
+    "meter_number": "80140814(IR)",
+    "previous_reading": "175",
+    "current_reading": "236",
+    "bill_month": "11/05/2025",
+    "bill_amount": "213.00"
+  }
+}

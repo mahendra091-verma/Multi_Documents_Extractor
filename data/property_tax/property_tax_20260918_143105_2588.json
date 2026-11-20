@@ -1,0 +1,12 @@
+{
+  "document_type": "PROPERTY_TAX",
+  "beneficiary_id": "2588",
+  "document_id": "987",
+  "pages": 1,
+  "fields": {
+    "assessment_number": "78770",
+    "door_number": "3-57",
+    "seal": "no",
+    "signature": "yes"
+  }
+}

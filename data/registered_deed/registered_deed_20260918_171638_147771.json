@@ -1,0 +1,19 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "147771",
+  "document_id": "4",
+  "pages": 4,
+  "fields": {
+    "rd_document_number": "5588/16",
+    "rd_buyer_name": "DUSUGAM RAMESH",
+    "rd_seller_name": "AMRAGONI NARSA GOUD",
+    "rd_survey_number": "219/e, 222/e, 228/e & 229/e",
+    "rd_plot_number": "151",
+    "rd_house_number": "None",
+    "rd_stamp_duty": "yes",
+    "rd_registration_seal": "yes",
+    "rd_sro_signature": "yes",
+    "rd_thumb_impressions": "yes",
+    "rd_witness_signatures": "yes"
+  }
+}

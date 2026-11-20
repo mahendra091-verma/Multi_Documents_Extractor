@@ -1,0 +1,15 @@
+{
+  "document_type": "D_FORM_PATTA",
+  "beneficiary_id": "2225",
+  "document_id": "123",
+  "pages": 2,
+  "fields": {
+    "beneficiary_name": "None",
+    "survey_number": "None",
+    "assignment_order_proceedings": "None",
+    "tahsildar": "no",
+    "revenue_divisional_officer": "no",
+    "collector": "no",
+    "mro": "no"
+  }
+}

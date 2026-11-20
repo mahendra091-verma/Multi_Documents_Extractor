@@ -1,0 +1,18 @@
+{
+  "document_type": "PATTA",
+  "beneficiary_id": "25851223",
+  "document_id": "12",
+  "pages": 2,
+  "fields": {
+    "pattadar_name": "తరసింగ్",
+    "survey_number": "106/ఈ3",
+    "extent": "1.0000 ఎ. గు.",
+    "village": "సర్దార్‌ పేద్",
+    "mandal": "మెగుడంపల్లి",
+    "district": "సంగారెడ్డి",
+    "tahsildar_mro_seal": "no",
+    "digital_signature": "no",
+    "qr_barcode": "yes",
+    "dharani_ror_reference": "None"
+  }
+}

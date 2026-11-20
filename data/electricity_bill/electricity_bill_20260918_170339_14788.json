@@ -1,0 +1,18 @@
+{
+  "document_type": "ELECTRICITY_BILL",
+  "beneficiary_id": "14788",
+  "document_id": "5",
+  "pages": 1,
+  "fields": {
+    "eb_consumer_name": "None",
+    "eb_usc_number": "None",
+    "eb_sc_number": "8J",
+    "eb_category": "None",
+    "eb_meter_number": "None",
+    "eb_previous_reading": "None",
+    "eb_current_reading": "None",
+    "eb_bill_month": "None",
+    "eb_bill_amount": "None",
+    "eb_total_due": "2000"
+  }
+}

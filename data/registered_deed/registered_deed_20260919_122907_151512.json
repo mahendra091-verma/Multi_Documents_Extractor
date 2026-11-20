@@ -1,0 +1,19 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "151512",
+  "document_id": "22",
+  "pages": 2,
+  "fields": {
+    "rd_document_number": "3258/2025",
+    "rd_buyer_name": "JAKKA LAVANYA",
+    "rd_seller_name": "MULKA GANGADHAR",
+    "rd_survey_number": "None",
+    "rd_plot_number": "None",
+    "rd_house_number": "6-77",
+    "rd_stamp_duty": "yes",
+    "rd_registration_seal": "yes",
+    "rd_sro_signature": "yes",
+    "rd_thumb_impressions": "no",
+    "rd_witness_signatures": "yes"
+  }
+}

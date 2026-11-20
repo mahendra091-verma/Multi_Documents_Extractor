@@ -1,0 +1,12 @@
+{
+  "document_type": "PROPERTY_TAX",
+  "beneficiary_id": "8574",
+  "document_id": "1",
+  "pages": 1,
+  "fields": {
+    "pt_assessment_number": "1937",
+    "pt_door_number": "3-16",
+    "pt_seal": "yes",
+    "pt_signature": "yes"
+  }
+}

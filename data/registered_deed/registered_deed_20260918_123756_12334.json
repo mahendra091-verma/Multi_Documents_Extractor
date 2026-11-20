@@ -1,0 +1,21 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "12334",
+  "document_id": "31",
+  "pages": 1,
+  "fields": {
+    "document_number": "2871/2021",
+    "buyer_name": "None",
+    "buyer_house_number": "None",
+    "seller_name": "GALI SHANTHI KUMAR",
+    "seller_house_number": "8-2-293/82/C/14, Flat No.302, Womena Co-op Society, Road No.02, Jubilee Hills, Khairtabad, Hyderabad",
+    "survey_number": "None",
+    "plot_number": "None",
+    "house_number": "None",
+    "stamp_duty": "yes",
+    "registration_seal": "no",
+    "sro_signature": "no",
+    "thumb_impressions": "no",
+    "witness_signatures": "no"
+  }
+}

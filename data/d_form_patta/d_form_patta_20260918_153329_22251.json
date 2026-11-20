@@ -1,0 +1,15 @@
+{
+  "document_type": "D_FORM_PATTA",
+  "beneficiary_id": "22251",
+  "document_id": "123",
+  "pages": 1,
+  "fields": {
+    "beneficiary_name": "సీడం లచ్చన్న",
+    "survey_number": "12",
+    "assignment_order_proceedings": "B/511/2025",
+    "tahsildar": "yes",
+    "revenue_divisional_officer": "no",
+    "collector": "no",
+    "mro": "no"
+  }
+}

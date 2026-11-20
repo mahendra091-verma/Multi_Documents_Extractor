@@ -1,0 +1,18 @@
+{
+  "document_type": "ELECTRICITY_BILL",
+  "beneficiary_id": "14755",
+  "document_id": "1",
+  "pages": 1,
+  "fields": {
+    "eb_consumer_name": "GANDAMALLA NARESH",
+    "eb_usc_number": "15934978",
+    "eb_sc_number": "31111-00810",
+    "eb_category": "1A Domestic",
+    "eb_meter_number": "00688349(ROA)",
+    "eb_previous_reading": "632",
+    "eb_current_reading": "691",
+    "eb_bill_month": "02/01/25 - 07/02/25",
+    "eb_bill_amount": "0.00",
+    "eb_total_due": "1373.00"
+  }
+}

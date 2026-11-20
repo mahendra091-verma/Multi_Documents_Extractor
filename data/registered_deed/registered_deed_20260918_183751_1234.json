@@ -1,0 +1,19 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "1234",
+  "document_id": "4",
+  "pages": 3,
+  "fields": {
+    "rd_document_number": "10899/2024",
+    "rd_buyer_name": "BACHA SRISHAILAM",
+    "rd_seller_name": "BALDA RAMULU, KANKALA MALLAIAH, BALDA VENKATAIAH, BUGGA PADMA, BALDHA SUGUNAMMA",
+    "rd_survey_number": "387/A/6",
+    "rd_plot_number": "None",
+    "rd_house_number": "None",
+    "rd_stamp_duty": "yes",
+    "rd_registration_seal": "yes",
+    "rd_sro_signature": "yes",
+    "rd_thumb_impressions": "yes",
+    "rd_witness_signatures": "yes"
+  }
+}

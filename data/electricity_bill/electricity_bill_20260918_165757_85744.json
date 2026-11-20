@@ -1,0 +1,17 @@
+{
+  "document_type": "ELECTRICITY_BILL",
+  "beneficiary_id": "85744",
+  "document_id": "1",
+  "pages": 1,
+  "fields": {
+    "eb_consumer_name": "M SUBBAIAH",
+    "eb_usc_number": "None",
+    "eb_sc_number": "10648181",
+    "eb_category": "1A Domestic",
+    "eb_meter_number": "44893/61 (1A)",
+    "eb_previous_reading": "6707",
+    "eb_current_reading": "6708",
+    "eb_bill_month": "03/2025",
+    "eb_bill_amount": "62.00"
+  }
+}

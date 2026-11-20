@@ -1,0 +1,11 @@
+{
+  "beneficiary_id": "5668",
+  "document_id": "345456",
+  "document_type": "property_tax",
+  "data": {
+    "pt_Assessment_no": "None",
+    "pt_door_no": "6-11",
+    "pt_seal": "YES",
+    "pt_signature": "YES"
+  }
+}

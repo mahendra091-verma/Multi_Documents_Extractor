@@ -1,0 +1,18 @@
+{
+  "document_type": "ELECTRICITY_BILL",
+  "beneficiary_id": "147887",
+  "document_id": "5",
+  "pages": 1,
+  "fields": {
+    "eb_consumer_name": "SHAIK CHAND FASHA",
+    "eb_usc_number": "12781711",
+    "eb_sc_number": "62007-01844",
+    "eb_category": "1B(2) Domest",
+    "eb_meter_number": "02229274(IR)",
+    "eb_previous_reading": "17459",
+    "eb_current_reading": "17705",
+    "eb_bill_month": "06/05/2026",
+    "eb_bill_amount": "1478.00",
+    "eb_total_due": "1467.59"
+  }
+}

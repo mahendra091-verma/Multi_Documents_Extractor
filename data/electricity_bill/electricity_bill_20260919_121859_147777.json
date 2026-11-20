@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "147777",
+  "document_id": "144",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "M SUBBAIAH",
+    "USC_no": "None",
+    "SC_no": "10548181",
+    "category": "1A Domestic",
+    "meter_no": "44893/61 (1A)",
+    "perivious_reading": "6707",
+    "eb_current_reading": "6708",
+    "bill_month": "09/03/25",
+    "total_due": 124.0
+  }
+}

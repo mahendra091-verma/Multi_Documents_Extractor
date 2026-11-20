@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "1263",
+  "document_id": "345456",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "Dimn Achanslly Rao s/o Ramuly (v) Tedegally",
+    "USC_no": "None",
+    "SC_no": "None",
+    "category": "None",
+    "meter_no": "None",
+    "perivious_reading": "None",
+    "current_reading": "None",
+    "bill_month": "30/01/18",
+    "total_due": "125/-"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "beneficiary_id": "6546",
+  "document_id": "345456",
+  "document_type": "register_deed",
+  "data": {
+    "rd_buyer": "SAKPELLI AMMAKKA",
+    "rd_seller": "SHAMALA SHASTRY",
+    "rd_doc_num": "2718/2025",
+    "rd_house_no": "None",
+    "rd_plot_no": "19",
+    "rd_survey_no": "48/1",
+    "rd_sro": "Adilabad",
+    "rd_seal": "YES",
+    "rd_sro_signature": "YES",
+    "rd_stamp_duty": "YES",
+    "rd_thumb": "YES",
+    "rd_witness": "YES"
+  }
+}

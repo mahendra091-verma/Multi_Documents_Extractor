@@ -1,0 +1,17 @@
+{
+  "beneficiary_id": "5656",
+  "document_id": "345456",
+  "document_type": "PATTA",
+  "data": {
+    "patta_pattadar_name": "తుంగపెండి మల్లెశ్",
+    "patta_survey_number": "None",
+    "patta_extent": "None",
+    "patta_village": "గంగిపల్ల",
+    "patta_mandal": "జైపూర్",
+    "patta_district": "అదిలాబాదు",
+    "patta_tahsildar_mro_seal": "yes",
+    "patta_digital_signature": "no",
+    "patta_qr_barcode": "no",
+    "patta_dharani_ror_reference": "None"
+  }
+}

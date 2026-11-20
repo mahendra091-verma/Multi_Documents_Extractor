@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "15151",
+  "document_id": "22",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "GANDAMALLA NARESH",
+    "USC_no": "15934978",
+    "SC_no": "31111-00810",
+    "category": "1A Domestic",
+    "meter_no": "00688349(ROA)",
+    "perivious_reading": "632",
+    "current_reading": "691",
+    "bill_month": "02/2025",
+    "total_due": 1373.0
+  }
+}

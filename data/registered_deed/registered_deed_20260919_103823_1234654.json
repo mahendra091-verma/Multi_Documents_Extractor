@@ -1,0 +1,19 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "1234654",
+  "document_id": "121",
+  "pages": 2,
+  "fields": {
+    "rd_document_number": "1238/2015",
+    "rd_buyer_name": "KALA GANGA KISHOR",
+    "rd_seller_name": "MADABOYI GANGARAM alias MADEVEDI GANGARAM",
+    "rd_survey_number": "None",
+    "rd_plot_number": "None",
+    "rd_house_number": "None",
+    "rd_stamp_duty": "yes",
+    "rd_registration_seal": "yes",
+    "rd_sro_signature": "yes",
+    "rd_thumb_impressions": "yes",
+    "rd_witness_signatures": "yes"
+  }
+}

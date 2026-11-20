@@ -1,0 +1,19 @@
+{
+  "beneficiary_id": "154545121",
+  "document_id": "212",
+  "document_type": "register_deed",
+  "data": {
+    "rd_buyer": "ZAREENA BEGAM",
+    "rd_seller": "ABDUL KALEEM",
+    "rd_doc_num": "597/2026",
+    "rd_house_no": "None",
+    "rd_plot_no": "None",
+    "rd_survey_no": "None",
+    "rd_sro": "BHEEMGAL",
+    "rd_seal": "YES",
+    "rd_sro_signature": "None",
+    "rd_stamp_duty": "YES",
+    "rd_thumb": "None",
+    "rd_witness": "None"
+  }
+}

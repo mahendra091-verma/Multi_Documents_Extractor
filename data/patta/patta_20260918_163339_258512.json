@@ -1,0 +1,18 @@
+{
+  "document_type": "PATTA",
+  "beneficiary_id": "258512",
+  "document_id": "12",
+  "pages": 1,
+  "fields": {
+    "pattadar_name": "అట్ల రాజిరెడ్డి",
+    "survey_number": "None",
+    "extent": "None",
+    "village": "గంగిపల్లి",
+    "mandal": "జైపూర్",
+    "district": "మంచిర్యాల్",
+    "tahsildar_mro_seal": "yes",
+    "digital_signature": "no",
+    "qr_barcode": "yes",
+    "dharani_ror_reference": "None"
+  }
+}

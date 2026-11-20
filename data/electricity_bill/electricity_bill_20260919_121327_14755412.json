@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "14755412",
+  "document_id": "1",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "Y. SATYAM",
+    "USC_no": "10445611",
+    "SC_no": "34321-00090",
+    "category": "1-B(1) Domestic",
+    "meter_no": "04241437(IRDA)",
+    "perivious_reading": "5686",
+    "eb_current_reading": "5794",
+    "bill_month": "09/05/2025",
+    "total_due": 0.0
+  }
+}

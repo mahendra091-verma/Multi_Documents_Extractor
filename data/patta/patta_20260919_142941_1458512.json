@@ -1,0 +1,17 @@
+{
+  "beneficiary_id": "1458512",
+  "document_id": "45",
+  "document_type": "PATTA",
+  "data": {
+    "patta_pattadar_name": "జర్వుల మోతి",
+    "patta_survey_number": "200/1ఉ/5",
+    "patta_extent": "0.3600 ఎ.గు.",
+    "patta_village": "చిన్న ఎల్కిచెర్ల",
+    "patta_mandal": "కొందుర్గు",
+    "patta_district": "రంగ రెడ్డి",
+    "patta_tahsildar_mro_seal": "yes",
+    "patta_digital_signature": "no",
+    "patta_qr_barcode": "yes",
+    "patta_dharani_ror_reference": "None"
+  }
+}

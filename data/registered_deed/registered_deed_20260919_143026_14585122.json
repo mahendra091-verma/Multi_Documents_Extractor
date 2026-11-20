@@ -1,0 +1,19 @@
+{
+  "beneficiary_id": "14585122",
+  "document_id": "45",
+  "document_type": "register_deed",
+  "data": {
+    "rd_buyer": "None",
+    "rd_seller": "None",
+    "rd_doc_num": "None",
+    "rd_house_no": "None",
+    "rd_plot_no": "None",
+    "rd_survey_no": "200/1ఉ/5",
+    "rd_sro": "None",
+    "rd_seal": "YES",
+    "rd_sro_signature": "YES",
+    "rd_stamp_duty": "NO",
+    "rd_thumb": "YES",
+    "rd_witness": "None"
+  }
+}

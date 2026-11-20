@@ -1,0 +1,16 @@
+{
+  "beneficiary_id": "11412152",
+  "document_id": "21",
+  "document_type": "electricity_bill",
+  "data": {
+    "Consumer_name": "M.SAVITRAMMA",
+    "USC_no": "10548225",
+    "SC_no": "31323 00173",
+    "category": "1A Domestic",
+    "meter_no": "1828142/(IRDA)",
+    "perivious_reading": "26",
+    "eb_current_reading": "26",
+    "bill_month": "12/11/2024",
+    "total_due": 75.0
+  }
+}

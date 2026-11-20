@@ -1,0 +1,21 @@
+{
+  "document_type": "REGISTERED_DEED",
+  "beneficiary_id": "145555",
+  "document_id": "123",
+  "pages": 1,
+  "fields": {
+    "document_number": "None",
+    "buyer_name": "KONDOR LAXMI",
+    "buyer_house_number": "3-92/1",
+    "seller_name": "KONDOR KISHAN",
+    "seller_house_number": "3-92",
+    "survey_number": "None",
+    "plot_number": "None",
+    "house_number": "None",
+    "stamp_duty": "yes",
+    "registration_seal": "no",
+    "sro_signature": "no",
+    "thumb_impressions": "None",
+    "witness_signatures": "None"
+  }
+}
